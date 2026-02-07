@@ -52,4 +52,4 @@ A sophisticated 3D solar system simulator built with Python and Pygame-CE, featu
 - `visualization.py`: 3D projection and camera logic.
 
 ---
-Created with ❤️ by jaganmranal
+Created by jaganmranal
